@@ -31,5 +31,11 @@ These link to PREVIEW videos for the respective courses on Front End Masters
 
 ## Name Dropping
 
-Picking up resources by these folks is certainly worthy
-Martin Fowler, Kent Beck, Robert C. Martin "Uncle Bob", Lukas Ruebbelke, Victor Savkin, Jeff Delaney, Lars Gyrup Brink Nielsen, Bram Borggreve
+Picking up resources by these folks is certainly worthy:
+
+- Robert C. Martin "Uncle Bob
+- Lukas Ruebbelke
+- Victor Savkin
+- Jeff Delaney
+- Lars Gyrup Brink Nielsen
+- Bram Borggreve
