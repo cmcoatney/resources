@@ -29,6 +29,9 @@ These link to PREVIEW videos for the respective courses on Front End Masters
 
 - [Enterprise Architecture Patterns] (https://frontendmasters.com/courses/enterprise-patterns/)
 
+
+## Productivity
+- [Formly form generator] (https://youtu.be/xNiCHsSAsXo)
 ## Name Dropping
 
 Picking up resources by these folks is certainly worthy:
